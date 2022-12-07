@@ -7,6 +7,8 @@ To start the proccess, you must make sure you have Python 3.9 installed (Some of
 **Once ready, double click** `runApp.bat`**.** 
 
 ![Highlighted file](https://i.imgur.com/5seEX3c.png)
+
+
  **This will start the setup, install the required python libraries, and execute the app.**
 **Once the setup is done, a window will pop up**
 
